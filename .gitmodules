@@ -1,0 +1,3 @@
+[submodule "assignments/assignment-i"]
+	path = assignments/assignment-i
+	url = https://github.com/marceloscientist/LevelUp.git
