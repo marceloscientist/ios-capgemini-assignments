@@ -1,3 +1,9 @@
 [submodule "assignments/assignment-i"]
 	path = assignments/assignment-i
 	url = https://github.com/marceloscientist/LevelUp.git
+[submodule "assignments/assignment-ii"]
+	path = assignments/assignment-ii
+	url = https://github.com/marceloscientist/QuizGame.git
+[submodule "assignments/assignment-iii"]
+	path = assignments/assignment-iii
+	url = https://github.com/marceloscientist/ShopMaster.git
